@@ -1,0 +1,12 @@
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\bin\Debug\School.dll
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\bin\Debug\School.pdb
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\obj\Debug\School.csproj.AssemblyReference.cache
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\obj\Debug\School.dll
+M:\Simplilearn\Projects\Phase-3\Practice Projects\Section2\School\School\obj\Debug\School.pdb
+C:\Users\kishan\Downloads\P3P1-master\P3P1-master\School\School\bin\Debug\School.dll
+C:\Users\kishan\Downloads\P3P1-master\P3P1-master\School\School\bin\Debug\School.pdb
+C:\Users\kishan\Downloads\P3P1-master\P3P1-master\School\School\obj\Debug\School.csproj.AssemblyReference.cache
+C:\Users\kishan\Downloads\P3P1-master\P3P1-master\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\kishan\Downloads\P3P1-master\P3P1-master\School\School\obj\Debug\School.dll
+C:\Users\kishan\Downloads\P3P1-master\P3P1-master\School\School\obj\Debug\School.pdb
